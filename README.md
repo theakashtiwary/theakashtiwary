@@ -8,11 +8,12 @@
 - 👨‍💻 Crafting Digital Realities through Code
 
 - ⚡ Development is the backbone <-:-> DSA breathes life into it.
-- ⚡ **50+** questions in leetcode and embracing growth with every challenge!.
+- ⚡ **450+** questions in leetcode and embracing growth with every challenge!.
 
 <h3 align="left">Seeking your connection for opportunities.</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akash-tiwary17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash tiwary" height="30" width="40" /></a>
+<a href="https://x.com/AkashTi56808516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="akash tiwary" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
